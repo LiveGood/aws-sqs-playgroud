@@ -1,0 +1,10 @@
+{
+  "name": "aws-sqs",
+  "version": "1.0.0",
+  "description": "Practice space for Simple Queue Service from AWS",
+  "main": "index.js",
+  "repository": "https://github.com/LiveGood/aws-sqs-playgroud",
+  "author": "Deyan Dachev",
+  "license": "MIT",
+  "private": false
+}
